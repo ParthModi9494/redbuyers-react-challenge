@@ -12,9 +12,9 @@ const Hamburger = () => {
       <path
         d="M5.84375 10.5938H28.1562M5.84375 17.5H28.1562M5.84375 24.4062H28.1562"
         stroke="white"
-        stroke-width="2"
-        stroke-miterlimit="10"
-        stroke-linecap="round"
+        strokeWidth="2"
+        strokeMiterlimit="10"
+        strokeLinecap="round"
       />
     </svg>
   );

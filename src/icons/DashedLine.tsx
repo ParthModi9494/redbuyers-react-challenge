@@ -15,9 +15,9 @@ const DashedLine = () => {
         x2="1.00001"
         y2="256"
         stroke="#999999"
-        stroke-width="2"
-        stroke-linecap="round"
-        stroke-dasharray="15 15"
+        strokeWidth="2"
+        strokeLinecap="round"
+        strokeDasharray="15 15"
       />
     </svg>
   );

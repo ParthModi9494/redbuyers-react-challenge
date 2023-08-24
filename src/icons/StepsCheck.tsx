@@ -23,9 +23,9 @@ const StepsCheck = () => {
       <path
         d="M11.2942 16.3138L14.5883 19.6079L21.1765 12.5491"
         stroke="white"
-        stroke-width="3"
-        stroke-linecap="round"
-        stroke-linejoin="round"
+        strokeWidth="3"
+        strokeLinecap="round"
+        strokeLinejoin="round"
       />
       <defs>
         <filter
@@ -35,9 +35,9 @@ const StepsCheck = () => {
           width="29.9608"
           height="29.9608"
           filterUnits="userSpaceOnUse"
-          color-interpolation-filters="sRGB"
+          colorInterpolationFilters="sRGB"
         >
-          <feFlood flood-opacity="0" result="BackgroundImageFix" />
+          <feFlood floodOpacity="0" result="BackgroundImageFix" />
           <feColorMatrix
             in="SourceAlpha"
             type="matrix"
